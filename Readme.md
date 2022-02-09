@@ -34,3 +34,4 @@ Github: https://github.com/shinanna/Final_project
 Trello: https://trello.com/b/CQiuCzFI/tripfilter
 Slides: https://docs.google.com/presentation/d/1X9XCVtQJEit9L35fDUyRj721WA29pWKQL_mhsTP936U/edit?usp=sharing
 Colab: https://colab.research.google.com/drive/16Tl2Gp2Wsd-eCzorwWRCEOfTaUsNXEkz?usp=sharing
+
