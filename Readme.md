@@ -1,4 +1,4 @@
-# Final project: Tripadvisor Filter
+# Tripadvisor NLP Analysis: a Sentiment Analysis and Wordcloud Vizualization on Restaurant Reviews
 
 ## Define the subject
 
