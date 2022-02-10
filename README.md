@@ -34,7 +34,8 @@ Clean and lemmatize text.
 - Github: https://github.com/shinanna/Final_project
 - Trello: https://trello.com/b/CQiuCzFI/tripfilter
 - Slides: https://docs.google.com/presentation/d/1X9XCVtQJEit9L35fDUyRj721WA29pWKQL_mhsTP936U/edit?usp=sharing
-- Colab: https://colab.research.google.com/drive/16Tl2Gp2Wsd-eCzorwWRCEOfTaUsNXEkz?usp=sharing
+- Colab Data Prepping: https://colab.research.google.com/drive/16Tl2Gp2Wsd-eCzorwWRCEOfTaUsNXEkz?usp=sharing
+- Colab Data Modeling: https://colab.research.google.com/drive/1JeROEnPFrKqh2IMZVD1FMHDchA9MRVbQ?usp=sharing
 
 ## Useful links
 - https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/
