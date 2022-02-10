@@ -2,31 +2,32 @@
 
 ## Define the subject
 
-Analyze customer reviews on Tripadvisor Restaurants section to improve customer experience when using the App.
+Analyze customer reviews on Tripadvisor Restaurants section to improve customer experience when choosing a restaurant. 
 
 ## Define business case
 
-When choosing a restaurant, one can easily use stars and rankings to filter only those restaurants which have good ratings. But other people's feedbacks will most often make you decide whether you want to book a place or not. 
+When choosing a restaurant, one can easily use stars and rankings to filter only those restaurants which have good ratings. But other people's feedbacks will most often make you decide whether you want to book a place or not. How can NLP help retrieve qualitative information provided by customer reviews?
 
 ## Define a plan
 
 Scrape Tripadvisor customer reviews. 
-Clean the data.
-Get a grasp of dataset with EDA.
-Filter excessively biased reviews with sentiment analysis. 
-Visualize wordcloud of keywords with NLTK. 
-Predictive modeling to know if the restaurant is a match. 
-Test usability.
+Clean and preprocess the data. 
+Get a grasp of dataset with EDA. 
+Process reviews to extract clean, trimmed text. 
+Score reviews with sentiment analysis. 
+Visualize wordcloud of review keywords. 
 
 ## Data collection
 
-Scraping data with API.
+Webscraping data with Octoparse.
 
 ## Data preparation
 
-Tokenize data.
+Clean data. 
+Plot EDA results. 
+Tokenize textual data.
 Filter stop words.
-Compute basic statistics.
+Clean and lemmatize text.
 
 ## Deliverables
 
@@ -37,6 +38,12 @@ Compute basic statistics.
 
 ## Useful links
 - https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/
+- https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6
 - https://towardsdatascience.com/generate-meaningful-word-clouds-in-python-5b85f5668eeb
-- https://textblob.readthedocs.io/en/dev/quickstart.html#quickstart
 - https://youtu.be/_xP5Tybr6m4
+
+## Documentation
+- https://www.octoparse.com/
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+- https://textblob.readthedocs.io/en/dev/quickstart.html
+- https://amueller.github.io/word_cloud/
