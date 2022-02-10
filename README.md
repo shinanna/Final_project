@@ -29,6 +29,12 @@ Tokenize textual data.
 Filter stop words.
 Clean and lemmatize text.
 
+## Data modeling
+
+Process sentiment analysis.
+Vectorize words and bigrams counts. 
+Visualize polarized word clouds. 
+
 ## Deliverables
 
 - Github: https://github.com/shinanna/Final_project
