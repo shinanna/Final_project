@@ -34,3 +34,9 @@ Compute basic statistics.
 - Trello: https://trello.com/b/CQiuCzFI/tripfilter
 - Slides: https://docs.google.com/presentation/d/1X9XCVtQJEit9L35fDUyRj721WA29pWKQL_mhsTP936U/edit?usp=sharing
 - Colab: https://colab.research.google.com/drive/16Tl2Gp2Wsd-eCzorwWRCEOfTaUsNXEkz?usp=sharing
+
+## Useful links
+- https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/
+- https://towardsdatascience.com/generate-meaningful-word-clouds-in-python-5b85f5668eeb
+- https://textblob.readthedocs.io/en/dev/quickstart.html#quickstart
+- https://youtu.be/_xP5Tybr6m4
