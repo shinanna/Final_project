@@ -1,4 +1,5 @@
-# Tripadvisor NLP Analysis: a Sentiment Analysis and Wordcloud Vizualization on Restaurant Reviews
+# Tripadvisor NLP Analysis
+A Sentiment Analysis and Wordcloud Vizualization on Restaurant Reviews
 
 ## Define the subject
 
